@@ -26,7 +26,7 @@
               <witness xml:id="F"><abbr type="siglum">F</abbr> = Bern. Burgerbibl. 172 (A. 1-5) + Paris. lat. 7929
                 (A. 6-12), s. IX</witness>
               <witness xml:id="G"><abbr type="siglum">G</abbr> = Bern. Burgerbibl. 167, s. IX<hi
-                  rend="superscript">2</hi>2</witness>
+                  rend="superscript">2</hi></witness>
               <witness xml:id="T"><abbr type="siglum">T</abbr> = Bern. Burgerbibl. 165, s. IX<hi
                   rend="superscript">1</hi>
               </witness>
@@ -60,7 +60,7 @@
                 </listWit>
               </witness>
               <witness xml:id="γ"><abbr type="siglum">γ</abbr> <listWit>
-                <witness xml:id="E"><abbr type="siglum">E</abbr> = Escorial. Bibl. S. Lorenzo T.II.17, s. IX2 (Ital. septentrion.) </witness>
+                <witness xml:id="E"><abbr type="siglum">E</abbr> = Escorial. Bibl. S. Lorenzo T.II.17, s. IX<hi rend="superscript">2</hi> (Ital. septentrion.) </witness>
                 <witness xml:id="Pb"><abbr type="siglum">Pb</abbr>	Paris. BnF lat. 16236, s. X / XI</witness>
                 <witness xml:id="Y"><abbr type="siglum">Y</abbr> = Trident. Bib. com. 3388 (olim Vind. 72), s.
                   IX<hi rend="superscript">2</hi></witness>
@@ -79,7 +79,7 @@
         </listWit>
         <listBibl>
           <bibl xml:id="Dan"><abbr type="siglum">Dan.</abbr>: Pub. Virgilii Maronis Bucolicorum Eclogae X., Georgicorum Libri IIII., Aeneidos Libri XII., et in ea Mauri Servii Honorati . . . Commentarii ex antiquissimis exemplaribus longe meliores et auctiores ex bibliotheca Petri Danielis . . . Paris 1600.</bibl>
-          <bibl xml:id="Verg"><abbr type="siglum"></abbr>: Vergil, Aeneid</bibl>
+          <bibl xml:id="Verg"><abbr type="siglum">Verg.</abbr>: Vergil, Aeneid</bibl>
         </listBibl>
       </div>
     </front>
