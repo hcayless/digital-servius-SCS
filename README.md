@@ -1,4 +1,4 @@
-#Digital Servius
+# Digital Servius
 
 The paper linked below is the text of what should have been the paper I delivered at the 2018 AIA/SCS annual meeting. Unfortunately, the conference's start date coincided with the arrival of the "bomb cyclone" nicknamed Grayson in Boston, which curtailed pretty much all travel up the Eastern seaboard of the United States. It sounds like it was a fantastic meeting, and I was very sorry to miss it.
 
@@ -8,9 +8,11 @@ The history of editions of Servius is a bit fraught. The only complete edition i
 
 The Harvard Servius presents the text full-width on the page where Servius and DS agree, prints DS-only text 3/4-width and flush left, Servius-only text 3/4-width and indented 1/4, and where both have text but it doesn't agree, it is printed in 2 columns, DS on the left and Servius on the right. So Servius is interesting from a technical perspective too. Figuring out the best way to mark it up is challenging and likewise figuring out how best to render it.
 
+<p style="text-align:center">![an example page from volume 3 of the Harvard Servius](images/servius3.8-9.png "Harvard Servius 3.8-9")<br>An example page from volume 3 of the Harvard Servius</p>
+
 To accompany the paper, I worked up some demos. The [first](servius.html) shows a snippet of Murgia-Kaster's Servius from the beginning of book 9, the [second](servius-S.html) and [third](servius-DS.html) show how easy it is to produce either Servius-only or DS-only versions of the text. Only the CSS and a little bit of Javascript are different in the three views. All 3 are generated on the fly in your browser from a single XML source using [CETEIcean](https://github.com/TEIC/CETEIcean) plus some extra Javascript. None of this should be regarded as final. There are still features of Murgia-Kaster that I haven't decided how to represent, and other aspects of the markup that have yet to be finalized.
 
-##Modeling Servius for the Digital Latin Library - Cayless - Boston 2018
+## Modeling Servius for the Digital Latin Library - Cayless - Boston 2018
 
 It took me a long time to find what I hope is the right framing for this paper. I want to present a quite technical topic: how the Digital Latin Library (http://digitallatin.org/) plans to deal with the forthcoming fifth volume of the “Harvard Servius”—a subject which isn't directly Classical—to an audience of Classics scholars without boring them to tears (or sleep) on a Saturday morning. In the end, I realized that what this really wants to be is a meditation on constraints: the constraints imposed on us both by the media we work in and by the choices we make. As I’m sure you know, Bob Kaster has been working on the completion of the material Murgia had developed for volume five before his death, and the work outlined here is based on a near-complete version of that edition.
 
