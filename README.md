@@ -8,7 +8,7 @@ The history of editions of Servius is a bit fraught. The only complete edition i
 
 The Harvard Servius presents the text full-width on the page where Servius and DS agree, prints DS-only text 3/4-width and flush left, Servius-only text 3/4-width and indented 1/4, and where both have text but it doesn't agree, it is printed in 2 columns, DS on the left and Servius on the right. So Servius is interesting from a technical perspective too. Figuring out the best way to mark it up is challenging and likewise figuring out how best to render it.
 
-<p style="text-align:center">![an example page from volume 3 of the Harvard Servius](images/servius3.8-9.png "Harvard Servius 3.8-9")<br>An example page from volume 3 of the Harvard Servius</p>
+<p style="text-align:center"><img src="images/servius3.8-9.png" title="Harvard Servius 3.8-9"><br>An example page from volume 3 of the Harvard Servius</p>
 
 To accompany the paper, I worked up some demos. The [first](servius.html) shows a snippet of Murgia-Kaster's Servius from the beginning of book 9, the [second](servius-S.html) and [third](servius-DS.html) show how easy it is to produce either Servius-only or DS-only versions of the text. Only the CSS and a little bit of Javascript are different in the three views. All 3 are generated on the fly in your browser from a single XML source using [CETEIcean](https://github.com/TEIC/CETEIcean) plus some extra Javascript. None of this should be regarded as final. There are still features of Murgia-Kaster that I haven't decided how to represent, and other aspects of the markup that have yet to be finalized.
 
